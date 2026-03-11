@@ -1,0 +1,15 @@
+/workspace/vars/bin/Debug/net8.0/vars
+/workspace/vars/bin/Debug/net8.0/vars.deps.json
+/workspace/vars/bin/Debug/net8.0/vars.runtimeconfig.json
+/workspace/vars/bin/Debug/net8.0/vars.dll
+/workspace/vars/bin/Debug/net8.0/vars.pdb
+/workspace/vars/obj/Debug/net8.0/vars.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/vars/obj/Debug/net8.0/vars.AssemblyInfoInputs.cache
+/workspace/vars/obj/Debug/net8.0/vars.AssemblyInfo.cs
+/workspace/vars/obj/Debug/net8.0/vars.csproj.CoreCompileInputs.cache
+/workspace/vars/obj/Debug/net8.0/vars.sourcelink.json
+/workspace/vars/obj/Debug/net8.0/vars.dll
+/workspace/vars/obj/Debug/net8.0/refint/vars.dll
+/workspace/vars/obj/Debug/net8.0/vars.pdb
+/workspace/vars/obj/Debug/net8.0/vars.genruntimeconfig.cache
+/workspace/vars/obj/Debug/net8.0/ref/vars.dll
