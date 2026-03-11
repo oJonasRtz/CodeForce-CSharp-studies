@@ -7,4 +7,5 @@ RUN apt-get update && apt-get install -y \
 	curl \
 	wget \
 	vim \
+	time \
 	&& rm -rf /var/lib/apt/lists/*

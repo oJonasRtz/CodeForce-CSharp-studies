@@ -1,0 +1,15 @@
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.AssemblyInfoInputs.cache
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.AssemblyInfo.cs
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.csproj.CoreCompileInputs.cache
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.sourcelink.json
+/workspace/wordCounter/bin/Debug/net8.0/wordCounter
+/workspace/wordCounter/bin/Debug/net8.0/wordCounter.deps.json
+/workspace/wordCounter/bin/Debug/net8.0/wordCounter.runtimeconfig.json
+/workspace/wordCounter/bin/Debug/net8.0/wordCounter.dll
+/workspace/wordCounter/bin/Debug/net8.0/wordCounter.pdb
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.dll
+/workspace/wordCounter/obj/Debug/net8.0/refint/wordCounter.dll
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.pdb
+/workspace/wordCounter/obj/Debug/net8.0/wordCounter.genruntimeconfig.cache
+/workspace/wordCounter/obj/Debug/net8.0/ref/wordCounter.dll
